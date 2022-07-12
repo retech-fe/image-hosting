@@ -1,2 +1,2 @@
 # image-hosting
-图片资源托管
+blog图片托管
